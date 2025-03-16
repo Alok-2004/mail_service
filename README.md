@@ -1,6 +1,6 @@
 # Email Sending Application
 
-A modern Node.js application for sending automated emails using Nodemailer and Mailgen.
+A modern Node.js application(Backend) for sending automated emails using Nodemailer and Mailgen.
 
 ## Description
 
